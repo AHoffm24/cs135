@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  cout << "Adam Hoffman, Lect#1003, lab1008, exercise 04" << endl;
+  cout << "This is my" <<  endl;
+  cout << "first program for CS 135." << endl;
+  return 0;
+}

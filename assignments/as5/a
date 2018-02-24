@@ -1,0 +1,39 @@
+============================================================
+Adam Hoffman,  Lec Sec# 1003, Lab sec# 1008,    Assignment 5
+============================================================
+
+License#    Make        Model       Car Type    Status      
+CXF341      Toyota      Camry       Standard    Available   
+RMJ441      Nissan      Versa       Compact     Available   
+ZMW562      Hyundai     Tuscon      Standard    Available   
+987ABCD     Ford        Fiesta      Compact     Available   
+123ABCD     Ford        Fusion      Premium     Available   
+
+
+Processing Rentals
+License# CXF341 Toyota Camry rented
+License# 987ABCD Ford Fiesta rented
+Error: RMZDDDcould not be found
+License# RMJ441 Nissan Versa rented
+License# 123ABCD Ford Fusion rented
+
+
+License#    Make        Model       Car Type    Status      
+CXF341      Toyota      Camry       Standard    Rented      
+RMJ441      Nissan      Versa       Compact     Rented      
+987ABCD     Ford        Fiesta      Compact     Rented      
+123ABCD     Ford        Fusion      Premium     Rented      
+
+
+Daily Rental Due is $83.80
+4 Car(s) is(are) currently rented
+1 Car(s) is(are) currently Available
+
+License#    Make        Model       Car Type    Status      
+CXF341      Toyota      Camry       Standard    Rented      
+RMJ441      Nissan      Versa       Compact     Rented      
+ZMW562      Hyundai     Tuscon      Standard    Available   
+987ABCD     Ford        Fiesta      Compact     Rented      
+123ABCD     Ford        Fusion      Premium     Rented      
+
+
